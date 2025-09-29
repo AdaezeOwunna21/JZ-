@@ -9,6 +9,6 @@ This repository contains the full source code for the official website of JZO, a
 - Contact form
 
 ## Tech Stack
-- Frontend: HTML/CSS/JavaScript (or React, Next.js, etc.)
-- Backend: Node.js/Express (if applicable)
-- Database: PostgreSQL/MySQL (if applicable)
+- Frontend: React.js
+- Backend: Node.js/Express 
+- Database: PostgreSQL
